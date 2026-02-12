@@ -1,2 +1,1 @@
-# revised-epoteck
-truth
+EPOTECK
